@@ -4,5 +4,9 @@ To Build a Web Application which Scrapes Different Websites for Data that is Rel
 
 # Purpose
 •	Scrape Full-Resolution Mars Hemisphere Images and Titles
+
+
 •	Update the Web App with Mars Hemisphere Images and Titles
+
+
 •	Add Bootstrap 3 Components
